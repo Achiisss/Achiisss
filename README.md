@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Balqis Putri Naila</h1>
 <h3 align="center">Software Engineering student from SMK Telkom Malang</h3>
